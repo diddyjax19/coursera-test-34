@@ -1,0 +1,11 @@
+1. download zip from other repository: https://github.com/mrgrdsky/coursera-test/archive/gh-pages.zip
+2. unzip it and copy relevant files to your repository
+3. cofigure your git commit params : 
+	Run		
+	  git config --global user.email "you@example.com"
+	  git config --global user.name "Your Name"
+4. run 
+    git commit 
+5. you will need to add commit message as a text
+6. run 
+    git push origin [branch-name]
